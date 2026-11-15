@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import './Home.css';
 
 const Home: React.FC = () => {
@@ -7,13 +8,13 @@ const Home: React.FC = () => {
       {/* Navigation */}
       <nav className="navigation">
         <div className="nav-content">
-          <div className="nav-wordmark">
+          <Link to="/" className="nav-wordmark">
             <div className="wordmark">IRON & GRIT</div>
             <div className="wordmark-descriptor">CUSTOM MOTORCYCLES</div>
-          </div>
+          </Link>
           <div className="nav-links">
-            <a href="#builds" className="nav-link">The builds</a>
-            <a href="#workshop" className="nav-link">Our workshop</a>
+            <Link to="/" className="nav-link">The builds</Link>
+            <Link to="/workshop" className="nav-link">Our workshop</Link>
             <a href="#journal" className="nav-link">The journal</a>
           </div>
           <button className="nav-cta">
@@ -46,7 +47,7 @@ const Home: React.FC = () => {
               <span>Explore the builds</span>
               <span className="arrow">↗</span>
             </button>
-            <a href="#workshop" className="hero-link">Inside the workshop  ↗</a>
+            <Link to="/workshop" className="hero-link">Inside the workshop  ↗</Link>
           </div>
         </div>
         <div className="hero-baseline">
@@ -168,7 +169,7 @@ const Home: React.FC = () => {
             that doesn't belong.
           </p>
           <div className="workshop-signature">Good people. Honest work. Exceptional motorcycles.</div>
-          <a href="#makers" className="workshop-action">Meet the makers   ↗</a>
+          <Link to="/workshop" className="workshop-action">Meet the makers   ↗</Link>
         </div>
       </section>
 
