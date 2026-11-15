@@ -1,3 +1,39 @@
+:root {
+  /* Colors */
+  --color-dark: #1c1e1a;
+  --color-light: #f3f1e9;
+  --color-cream: #f3f1eb;
+  --color-accent: #e4ed87;
+  --color-gray-dark: #686c61;
+  --color-gray-medium: #666a5f;
+  --color-gray-light: #cdcec4;
+  --color-text-muted: #73766b;
+  --color-text-pale: #d4d5cb;
+  --color-text-medium: #aeb3a4;
+  --color-text-workshop: #c4c8bb;
+  --color-bg-dark: #252a23;
+  --color-bg-story: #e4e5dc;
+  --color-quote: #757f57;
+  --color-cta-dark: #424a2f;
+  --color-hero-overlay: #10120f;
+  --color-rule: #d7d8cf;
+  --color-footer-rule: #42473c;
+  --color-hero-rule: #55574b;
+  --color-build-info: #b6b9ae;
+
+  /* Typography */
+  --font-heading: 'Barlow Condensed', sans-serif;
+  --font-body: 'Inter', sans-serif;
+
+  /* Spacing */
+  --spacing-xs: 4px;
+  --spacing-sm: 8px;
+  --spacing-md: 16px;
+  --spacing-lg: 24px;
+  --spacing-xl: 32px;
+  --spacing-2xl: 64px;
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -5,9 +41,9 @@
 }
 
 body {
-  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-  color: #1c1e1a;
-  background-color: #f3f1e9;
+  font-family: var(--font-body);
+  color: var(--color-dark);
+  background-color: var(--color-cream);
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
