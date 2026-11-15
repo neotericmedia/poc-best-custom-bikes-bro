@@ -1,0 +1,21 @@
+.hero {
+  background: linear-gradient(135deg, var(--color-primary) 0%, #2d2d2d 100%);
+  color: var(--color-secondary);
+  padding: var(--spacing-2xl) var(--spacing-xl);
+  text-align: center;
+  min-height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero-content h1 {
+  font-size: var(--font-size-2xl);
+  margin-bottom: var(--spacing-md);
+  font-weight: var(--font-weight-bold);
+}
+
+.hero-content p {
+  font-size: var(--font-size-lg);
+  color: #aaa;
+}

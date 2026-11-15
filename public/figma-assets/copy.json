@@ -1,0 +1,407 @@
+[
+  {
+    "nodeId": "2:25",
+    "name": "Wordmark",
+    "text": "IRON & GRIT"
+  },
+  {
+    "nodeId": "2:26",
+    "name": "Wordmark descriptor",
+    "text": "CUSTOM MOTORCYCLES"
+  },
+  {
+    "nodeId": "2:27",
+    "name": "The builds",
+    "text": "The builds"
+  },
+  {
+    "nodeId": "2:28",
+    "name": "Our workshop",
+    "text": "Our workshop"
+  },
+  {
+    "nodeId": "2:29",
+    "name": "The journal",
+    "text": "The journal"
+  },
+  {
+    "nodeId": "2:31",
+    "name": "Button label",
+    "text": "Start a build"
+  },
+  {
+    "nodeId": "2:32",
+    "name": "Direction",
+    "text": "↗"
+  },
+  {
+    "nodeId": "2:45",
+    "name": "Eyebrow",
+    "text": "INDEPENDENT SPIRIT. HAND-BUILT MACHINES."
+  },
+  {
+    "nodeId": "2:46",
+    "name": "Headline",
+    "text": "NOT MADE\nFOR EVERYONE."
+  },
+  {
+    "nodeId": "2:47",
+    "name": "Introduction",
+    "text": "One-of-a-kind motorcycles. Built by hand,\nridden with purpose. For those who take\nthe long way home."
+  },
+  {
+    "nodeId": "2:49",
+    "name": "Button label",
+    "text": "Explore the builds"
+  },
+  {
+    "nodeId": "2:50",
+    "name": "Direction",
+    "text": "↗"
+  },
+  {
+    "nodeId": "2:51",
+    "name": "Workshop link",
+    "text": "Inside the workshop  ↗"
+  },
+  {
+    "nodeId": "2:53",
+    "name": "Hero origin",
+    "text": "BUILT IN AUSTIN, TEXAS. RIDDEN EVERYWHERE."
+  },
+  {
+    "nodeId": "2:54",
+    "name": "Featured build index",
+    "text": "001 / THE OUTLAW"
+  },
+  {
+    "nodeId": "2:55",
+    "name": "Featured build type",
+    "text": "BMW R nineT · Café racer"
+  },
+  {
+    "nodeId": "2:56",
+    "name": "Manifesto 1",
+    "text": "BUILT, NOT BOUGHT."
+  },
+  {
+    "nodeId": "2:57",
+    "name": "Separator 1",
+    "text": "+"
+  },
+  {
+    "nodeId": "2:58",
+    "name": "Manifesto 2",
+    "text": "NO TWO ALIKE."
+  },
+  {
+    "nodeId": "2:59",
+    "name": "Separator 2",
+    "text": "+"
+  },
+  {
+    "nodeId": "2:60",
+    "name": "Manifesto 3",
+    "text": "ALL SOUL. NO SHORTCUTS."
+  },
+  {
+    "nodeId": "2:61",
+    "name": "Section index",
+    "text": "01 / THE COLLECTION"
+  },
+  {
+    "nodeId": "2:62",
+    "name": "Collection heading",
+    "text": "ONE OF ONE. EVERY TIME."
+  },
+  {
+    "nodeId": "2:64",
+    "name": "All builds label",
+    "text": "All builds"
+  },
+  {
+    "nodeId": "2:65",
+    "name": "Available tab",
+    "text": "Available now"
+  },
+  {
+    "nodeId": "2:66",
+    "name": "Archive tab",
+    "text": "The archive"
+  },
+  {
+    "nodeId": "2:69",
+    "name": "Availability",
+    "text": "AVAILABLE"
+  },
+  {
+    "nodeId": "2:70",
+    "name": "BUILD 001",
+    "text": "BUILD 001"
+  },
+  {
+    "nodeId": "2:71",
+    "name": "THE OUTLAW",
+    "text": "THE OUTLAW"
+  },
+  {
+    "nodeId": "2:72",
+    "name": "THE OUTLAW link",
+    "text": "↗"
+  },
+  {
+    "nodeId": "2:73",
+    "name": "THE OUTLAW platform",
+    "text": "BMW R nineT / Café racer"
+  },
+  {
+    "nodeId": "2:75",
+    "name": "THE OUTLAW price",
+    "text": "$24,500"
+  },
+  {
+    "nodeId": "2:76",
+    "name": "THE OUTLAW price context",
+    "text": "USD / TURNKEY"
+  },
+  {
+    "nodeId": "2:78",
+    "name": "Availability",
+    "text": "AVAILABLE"
+  },
+  {
+    "nodeId": "2:79",
+    "name": "BUILD 002",
+    "text": "BUILD 002"
+  },
+  {
+    "nodeId": "2:80",
+    "name": "THE RAMBLER",
+    "text": "THE RAMBLER"
+  },
+  {
+    "nodeId": "2:81",
+    "name": "THE RAMBLER link",
+    "text": "↗"
+  },
+  {
+    "nodeId": "2:82",
+    "name": "THE RAMBLER platform",
+    "text": "Triumph Scrambler / Street tracker"
+  },
+  {
+    "nodeId": "2:84",
+    "name": "THE RAMBLER price",
+    "text": "$21,800"
+  },
+  {
+    "nodeId": "2:85",
+    "name": "THE RAMBLER price context",
+    "text": "USD / TURNKEY"
+  },
+  {
+    "nodeId": "2:87",
+    "name": "Availability",
+    "text": "SOLD · ONE OF ONE"
+  },
+  {
+    "nodeId": "2:88",
+    "name": "BUILD 003",
+    "text": "BUILD 003"
+  },
+  {
+    "nodeId": "2:89",
+    "name": "THE GHOST",
+    "text": "THE GHOST"
+  },
+  {
+    "nodeId": "2:90",
+    "name": "THE GHOST link",
+    "text": "↗"
+  },
+  {
+    "nodeId": "2:91",
+    "name": "THE GHOST platform",
+    "text": "Honda CB750 / Café racer"
+  },
+  {
+    "nodeId": "2:93",
+    "name": "THE GHOST price",
+    "text": "Commissioned"
+  },
+  {
+    "nodeId": "2:94",
+    "name": "THE GHOST price context",
+    "text": "A rider’s original"
+  },
+  {
+    "nodeId": "2:95",
+    "name": "Workshop index",
+    "text": "02 / THE WORKSHOP"
+  },
+  {
+    "nodeId": "2:96",
+    "name": "Workshop headline",
+    "text": "DIRTY HANDS.\nCLEAR VISION."
+  },
+  {
+    "nodeId": "2:97",
+    "name": "Workshop story",
+    "text": "We’re a small crew with a big respect for the machine.\nFrom the first sketch to the last weld, every detail is\nmade with intention. Nothing off the shelf. Nothing\nthat doesn’t belong."
+  },
+  {
+    "nodeId": "2:98",
+    "name": "Workshop signature",
+    "text": "Good people. Honest work. Exceptional motorcycles."
+  },
+  {
+    "nodeId": "2:99",
+    "name": "Workshop action",
+    "text": "Meet the makers   ↗"
+  },
+  {
+    "nodeId": "2:100",
+    "name": "Process index",
+    "text": "03 / YOUR MACHINE, YOUR WAY"
+  },
+  {
+    "nodeId": "2:101",
+    "name": "Process heading",
+    "text": "FROM WHAT IF.\nTO WHAT’S NEXT."
+  },
+  {
+    "nodeId": "2:103",
+    "name": "Step 01",
+    "text": "01"
+  },
+  {
+    "nodeId": "2:104",
+    "name": "THE CONVERSATION",
+    "text": "THE CONVERSATION"
+  },
+  {
+    "nodeId": "2:105",
+    "name": "Step description 01",
+    "text": "Tell us how you ride. We’ll find the\nright platform, direction, and budget."
+  },
+  {
+    "nodeId": "2:107",
+    "name": "Step 02",
+    "text": "02"
+  },
+  {
+    "nodeId": "2:108",
+    "name": "THE CRAFT",
+    "text": "THE CRAFT"
+  },
+  {
+    "nodeId": "2:109",
+    "name": "Step description 02",
+    "text": "Metal, leather, and a little obsession.\nFollow your build as it comes to life."
+  },
+  {
+    "nodeId": "2:111",
+    "name": "Step 03",
+    "text": "03"
+  },
+  {
+    "nodeId": "2:112",
+    "name": "THE OPEN ROAD",
+    "text": "THE OPEN ROAD"
+  },
+  {
+    "nodeId": "2:113",
+    "name": "Step description 03",
+    "text": "Tested. Tuned. Yours. Pick up the keys\nand write the rest of the story."
+  },
+  {
+    "nodeId": "2:114",
+    "name": "Story label",
+    "text": "WORDS FROM THE ROAD"
+  },
+  {
+    "nodeId": "2:115",
+    "name": "Quote mark",
+    "text": "“"
+  },
+  {
+    "nodeId": "2:116",
+    "name": "Rider quote",
+    "text": "THEY DIDN’T JUST BUILD MY BIKE.\nTHEY BUILT THE BIKE I COULDN’T\nGET OUT OF MY HEAD."
+  },
+  {
+    "nodeId": "2:117",
+    "name": "Rider attribution",
+    "text": "JAMES R.  /  THE OUTLAW’S FIRST BELIEVER"
+  },
+  {
+    "nodeId": "2:118",
+    "name": "Invitation label",
+    "text": "YOUR NEXT CHAPTER STARTS HERE."
+  },
+  {
+    "nodeId": "2:119",
+    "name": "Invitation heading",
+    "text": "LET’S BUILD SOMETHING\nTHAT FEELS LIKE YOU."
+  },
+  {
+    "nodeId": "2:120",
+    "name": "Build availability",
+    "text": "Now booking custom commissions for spring 2027."
+  },
+  {
+    "nodeId": "2:122",
+    "name": "Action label",
+    "text": "Start the conversation"
+  },
+  {
+    "nodeId": "2:123",
+    "name": "Direction",
+    "text": "↗"
+  },
+  {
+    "nodeId": "2:124",
+    "name": "No pressure reassurance",
+    "text": "Big ideas welcome. No pressure, ever."
+  },
+  {
+    "nodeId": "2:125",
+    "name": "Footer wordmark",
+    "text": "IRON & GRIT"
+  },
+  {
+    "nodeId": "2:126",
+    "name": "Footer motto",
+    "text": "Built with intent. Ridden with soul."
+  },
+  {
+    "nodeId": "2:127",
+    "name": "Email",
+    "text": "hello@ironandgrit.co"
+  },
+  {
+    "nodeId": "2:128",
+    "name": "Location",
+    "text": "East Austin, Texas\nWorkshop visits by appointment."
+  },
+  {
+    "nodeId": "2:129",
+    "name": "Instagram",
+    "text": "Instagram  ↗"
+  },
+  {
+    "nodeId": "2:130",
+    "name": "Contact",
+    "text": "Get in touch  ↗"
+  },
+  {
+    "nodeId": "2:132",
+    "name": "Copyright",
+    "text": "© 2026 Iron & Grit Motor Co."
+  },
+  {
+    "nodeId": "2:133",
+    "name": "Terms",
+    "text": "Privacy     /     Terms"
+  }
+]
