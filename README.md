@@ -1,54 +1,51 @@
-# Best Custom Bikes – React App
+# Iron & Grit — Custom Motorcycles
 
-A two-page React 18 + Vite + TypeScript application showcasing custom bicycle designs with navigation between pages.
+A custom motorcycle workshop website built with React, TypeScript, and Vite.
 
-## Stack
+## Features
 
-- **React 18** – UI framework
-- **Vite** – Fast build tool and dev server
-- **TypeScript** – Type-safe development
-- **React Router** – Client-side navigation
-- **CSS Custom Properties** – Design tokens for consistent theming
-
-## Project Structure
-
-```
-src/
-├── pages/
-│   ├── Page1.tsx        (Home page – Hero section)
-│   └── Page2.tsx        (Gallery page – Bike showcase)
-├── components/
-│   ├── Header.tsx       (Navigation header)
-│   ├── Hero.tsx         (Hero banner)
-│   └── Gallery.tsx      (Bike gallery grid)
-├── styles/
-│   ├── Header.css
-│   ├── Hero.css
-│   ├── Page1.css
-│   ├── Page2.css
-│   └── Gallery.css
-├── index.css            (Global styles + design tokens)
-├── App.tsx              (Router setup)
-└── main.tsx             (Entry point)
-```
-
-## Epics Map
-
-1. **Figma Asset Extraction & Design Analysis** → Design tokens in `src/index.css`
-2. **Page 1 Implementation** → `src/pages/Page1.tsx` + `src/components/Hero.tsx`
-3. **Page 2 Implementation** → `src/pages/Page2.tsx` + `src/components/Gallery.tsx`
-4. **Navigation & Routing** → React Router in `src/App.tsx`, links in `src/components/Header.tsx`
-5. **Build first page UI from Figma** → Figma design reflected in Page1 and Page2 components
+- Homepage with hero section, build collection, workshop story, and process overview
+- Fully responsive design optimized for desktop and mobile
+- Clean, semantic HTML and CSS
+- Custom typography using Barlow Condensed and Inter fonts
+- Real image assets from Figma design
 
 ## Getting Started
 
+### Install dependencies
+
 ```bash
 npm install
+```
+
+### Run development server
+
+```bash
 npm run dev
 ```
 
-The app will open at `http://localhost:5173`.
+Open [http://localhost:5173](http://localhost:5173) to view in your browser.
 
-## Design Tokens
+### Build for production
 
-All colors, spacing, typography, and radii are defined as CSS custom properties in `src/index.css` for easy theming.
+```bash
+npm run build
+```
+
+### Preview production build
+
+```bash
+npm run preview
+```
+
+## Tech Stack
+
+- React 18
+- TypeScript
+- Vite
+- React Router v6
+- CSS (no framework)
+
+## Design
+
+Implementation based on Figma design with pixel-perfect attention to typography, spacing, and layout.
