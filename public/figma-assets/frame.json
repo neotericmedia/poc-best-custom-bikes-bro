@@ -1,15 +1,15 @@
 {
-  "id": "2:2",
-  "name": "01 — Iron & Grit / Home",
+  "id": "2:12",
+  "name": "02 — Iron & Grit / The Outlaw",
   "page": "Page 1",
   "bounds": {
-    "x": -719.5,
+    "x": 800.5,
     "y": -515,
     "width": 1440,
-    "height": 3144
+    "height": 2676
   },
-  "selection": "home",
-  "requestedNodeId": null,
-  "requestedNodeType": null,
-  "sourceVersion": "2422189189884341406"
+  "selection": "explicit",
+  "requestedNodeId": "2:12",
+  "requestedNodeType": "FRAME",
+  "sourceVersion": "2422206494836928899"
 }
